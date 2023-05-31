@@ -1,5 +1,6 @@
 #+TITLE: 反对"电子阳痿"说
 #+AUTHOR: 甜悲白花
+#+DATE: 2023-04-27
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 # Change the background of source block.
 #+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>

@@ -1,4 +1,6 @@
 #+TITLE: 对电子竞技绑架游戏的抗议: 游戏玩家与电竞选手的决裂之路
+#+AUTHOR: 甜悲白花
+#+DATE: 2023-05-24
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 # Change the background of source block.
 #+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
